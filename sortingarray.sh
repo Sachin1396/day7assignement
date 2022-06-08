@@ -20,4 +20,5 @@ do
 
 done
 echo "sorted array: ${arr[@]}"
+echo " 2nd largest :${arr[8]} 2nd smallest: ${arr[1]} "
 
